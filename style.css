@@ -1,0 +1,22 @@
+body {
+    background-color: #E6B9A3;
+}
+div {
+    text-align: center;
+}
+.container{
+    background-color: #E6ADA3;
+}
+footer{
+    text-align: end;
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
