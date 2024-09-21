@@ -1,0 +1,2 @@
+# estatico
+site estático.
